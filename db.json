@@ -1,45 +1,29 @@
 {
   "posts": [
  { "id": 1, "title": "fugit labore quia mollitia quas deserunt nostrum sunt" },
-    
 { "id": 2, "title": "aut inventore non pariatur sit vitae voluptatem sapiente" },
-    
 { "id": 4, "title": "et officiis id praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 5, "title": "perferendis temporibus delectus optio ea eum ratione dolorum" }
-,  
-{ "id": 6, "title": "eos est animi quis" }
-,  
+,{ "id": 5, "title": "perferendis temporibus delectus optio ea eum ratione dolorum" }
+,{ "id": 6, "title": "eos est animi quis" }
+, 
 { "id": 7, "title": "Post 7 eos est animi quis" }
-,  
-{ "id": 8, "title": "Post 8 eos est animi quis" }
-,  
-{ "id": 9, "title": "Post 9 eos est animi quis" }
-,  
-{ "id": 10, "title": "post 10 et officiis id praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 11, "title": "post 11 fficiis id praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 12, "title": "post 12 is id praesentium hic aut ipsa dolorem repudiandae" }
-,  
+,{ "id": 8, "title": "Post 8 eos est animi quis" }
+,{ "id": 9, "title": "Post 9 eos est animi quis" }
+,{ "id": 10, "title": "post 10 et officiis id praesentium hic aut ipsa dolorem repudiandae" }
+,{ "id": 11, "title": "post 11 fficiis id praesentium hic aut ipsa dolorem repudiandae" }
+,{ "id": 12, "title": "post 12 is id praesentium hic aut ipsa dolorem repudiandae" }
+,
 { "id": 13, "title": "post 13 officiis id praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 14, "title": "post 14 id praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 15, "title": "post 15 praesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 16, "title": "post 16  iciis id praesentium hic aut ipsa dolorem repudiandae" }
-,  
+,{ "id": 14, "title": "post 14 id praesentium hic aut ipsa dolorem repudiandae" }
+,{ "id": 15, "title": "post 15 praesentium hic aut ipsa dolorem repudiandae" }
+,{ "id": 16, "title": "post 16  iciis id praesentium hic aut ipsa dolorem repudiandae" }
+,
 { "id": 17, "title": "post 17  esentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 18, "title": "post 18 ium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 19, "title": "post 19 aesentium hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 20, "title": "post 20 um hic aut ipsa dolorem repudiandae" }
-,  
-{ "id": 21, "title": "post 21 ipsa dolorem repudiandae" }
-,  
+,{ "id": 18, "title": "post 18 ium hic aut ipsa dolorem repudiandae" }
+,{ "id": 19, "title": "post 19 aesentium hic aut ipsa dolorem repudiandae" }
+,{ "id": 20, "title": "post 20 um hic aut ipsa dolorem repudiandae" }
+,{ "id": 21, "title": "post 21 ipsa dolorem repudiandae" }
+
 ],
  "comments": [
  { "id": 1, "body": "ut dolorum nostrum id quia aut est\nfuga est inventore vel eligendi explicabo quis consectetur\naut occaecati repellat id natus quo est\nut blanditiis quia ut vel ut maiores ea", "postId": 1 },
@@ -49,10 +33,9 @@
 { "id": 4, "body": "ut dolorum nostrum id quia aut est\nfuga est inventore vel eligendi explicabo quis consectetur\naut occaecati repellat id natus quo est\nut blanditiis quia ut vel ut maiores ea", "postId": 4 },
     
 { "id": 5, "body": "expedita maiores dignissimos facilis\nipsum est rem est fugit velit sequi\neum odio dolores dolor totam\noccaecati ratione eius rem velit", "postId": 5 },
-{ "id": 6, "body": "fuga eos qui dolor rerum\ninventore corporis exercitationem\ncorporis cupiditate et deserunt recusandae est sed quis culpa\neum maiores corporis et", "postId": 5 },
+{ "id": 6, "body": "fuga eos qui dolor rerum\ninventore corporis exercitationem\ncorporis cupiditate et deserunt recusandae est sed quis culpa\neum maiores corporis et", "postId": 5 }
 ],
-  
-"profile": { "name": "bharat7387"
+ "profile": { "name": "bharat7387"
  }
 
 }
