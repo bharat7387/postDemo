@@ -25,6 +25,14 @@
 ,{ "id": 21, "title": "post 21 ipsa dolorem repudiandae" }
 
 ],
+ "comments": [
+ { "id": 1, "body": "ut dolorum nostrum id quia aut estanfuga est inventore vel eligendi explicabo quis consecteturanaut occaecati repellat id natus quo estanut blanditiis quia ut vel ut maiores ea", "postId": 1 },
+{ "id": 2, "body": "expedita maiores dignissimos facilisanipsum est rem est fugit velit sequianeum odio dolores dolor totamanoccaecati ratione eius rem velit", "postId": 1 },
+{ "id": 3, "body": "fuga eos qui dolor rerumaninventore corporis exercitationemancorporis cupiditate et deserunt recusandae est sed quis culpaaneum maiores corporis et", "postId": 1 },
+{ "id": 4, "body": "ut dolorum nostrum id quia aut estanfuga est inventore vel eligendi explicabo quis consecteturanaut occaecati repellat id natus quo estanut blanditiis quia ut vel ut maiores ea", "postId": 4 },
+
+{ "id": 5, "body": "expedita maiores dignissimos facilisanipsum est rem est fugit velit sequianeum odio dolores dolor totamanoccaecati ratione eius rem velit", "postId": 5 },{ "id": 6, "body": "fuga eos qui dolor rerumaninventore corporis exercitationemancorporis cupiditate et deserunt recusandae est sed quis culpaaneum maiores corporis et", "postId": 5 }
+],
 "profile": { "name": "bharat7387"
  }
 
