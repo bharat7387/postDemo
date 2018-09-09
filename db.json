@@ -48,7 +48,7 @@
 { "id": 3,  "postId": 1, "name": "Bharat", "email": "bharat7387@gmail.com", "emailBody":"Where are you going?" },
 { "id": 4,  "postId": 4, "name": "Ajay", "email": "ajay@gmail.com", "emailBody":"Where are you going?" },
 
-{ "id": 5,  "postId": 5,, "name": "Amit", "email": "amit@gmail.com", "emailBody":"Where are you going?" }
+{ "id": 5,  "postId": 5, "name": "Amit", "email": "amit@gmail.com", "emailBody":"Where are you going?" }
 ],
 "profile": { "name": "bharat7387"
  }
