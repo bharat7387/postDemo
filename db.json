@@ -42,13 +42,13 @@
 
 ],
  "comments": [
- { "id": 1, "postId": 1 },
+ { "id": 1, "postId": 1, "name": "Bharat", "email": "bharat7387@gmail.com", "emailBody":"Hello, How are you doing?"  },
 
-{ "id": 2,  "postId": 1 },
-{ "id": 3,  "postId": 1 },
-{ "id": 4,  "postId": 4 },
+{ "id": 2,  "postId": 1, "name": "Bharat", "email": "bharat7387@gmail.com", "emailBody":"What's going on?" },
+{ "id": 3,  "postId": 1, "name": "Bharat", "email": "bharat7387@gmail.com", "emailBody":"Where are you going?" },
+{ "id": 4,  "postId": 4, "name": "Ajay", "email": "ajay@gmail.com", "emailBody":"Where are you going?" },
 
-{ "id": 5,  "postId": 5 }
+{ "id": 5,  "postId": 5,, "name": "Amit", "email": "amit@gmail.com", "emailBody":"Where are you going?" }
 ],
 "profile": { "name": "bharat7387"
  }
